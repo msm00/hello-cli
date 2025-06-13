@@ -1,0 +1,16 @@
+{
+  "_checkout": "2022.6.3",
+  "_output_dir": "/Users/msm/IdeaProjects/RUR",
+  "_repo_dir": "/Users/msm/.cookiecutters/cookiecutter-hypermodern-python",
+  "_template": "gh:cjolowicz/cookiecutter-hypermodern-python",
+  "author": "Milan Smid",
+  "copyright_year": "2025",
+  "development_status": "Development Status :: 2 - Pre-Alpha",
+  "email": "smidmi@gmail.com",
+  "friendly_name": "hcli",
+  "github_user": "msm00",
+  "license": "MIT",
+  "package_name": "hello_cli",
+  "project_name": "Hello CLI",
+  "version": "0.1.0"
+}
